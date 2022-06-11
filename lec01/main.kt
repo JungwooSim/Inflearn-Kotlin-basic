@@ -17,6 +17,4 @@ fun main () {
     val person = Person()
 }
 
-class Person {
-
-}
+class Person (val name: String? = "")
