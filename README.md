@@ -29,3 +29,8 @@
    1. try catch finally 구문
    2. Checked Exception 과 Unchecked Exception
    3. try with resources
+8. 함수를 다루는 방법
+   1. 함수 선언 문법
+   2. default parameter
+   3. named argument (parameter)
+   4. 같은 타입의 여러 파라미터 받기 (가변인자)
