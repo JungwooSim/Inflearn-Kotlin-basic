@@ -34,3 +34,8 @@
    2. default parameter
    3. named argument (parameter)
    4. 같은 타입의 여러 파라미터 받기 (가변인자)
+9. 클래스를 다루는 방법
+   1. 클래스와 프로퍼티
+   2. 생성자와 init
+   3. 커스텀 getter, setter
+   4. backing field
