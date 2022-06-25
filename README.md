@@ -57,3 +57,7 @@
 13. 중첩 클래스를 다루는 방법
     1. 중첩 클래스의 종류
     2. 코틀린의 중첩 클래스와 내부 클래스
+14. 다양한 클래스를 다루는 방법
+    1. Data Class
+    2. Enum Class
+    3. Sealed Class, Sealed Interface
