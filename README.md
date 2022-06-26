@@ -61,3 +61,7 @@
     1. Data Class
     2. Enum Class
     3. Sealed Class, Sealed Interface
+15. 배열과 컬렉션을 다루는 방법
+    1. 배열
+    2. Collection - List, Set, Map
+    3. 컬렉션의 null 가능성, Java 와 함께 사용하기

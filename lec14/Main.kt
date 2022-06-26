@@ -29,6 +29,8 @@ fun main() {
      *  - Enum 과 다른점
      *   - 클래스를 상속받을 수 있다.
      *   - 하위 클래스는 멀티 인스턴스가 가능하다
+     *
+     * TIP : 추상화가 필요한 Entity or DTO 에 sealed class 를 활용!
      */
     handleCar(Avante())
 
