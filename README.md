@@ -70,3 +70,8 @@
     2. infix 함수
     3. inline 함수
     4. 지역함수
+17. 람다를 다루는 방법
+    1. Java 에서 람다를 다루기 위한 노력
+    2. 코틀린에서의 람다
+    3. Closure
+    4. 다시 try with resources
