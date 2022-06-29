@@ -80,3 +80,8 @@
     2. 다양한 컬렉션 처리 기능
     3. List 를 Map 으로
     4. 중첩된 컬렉션 처리
+19. 코틀린의 이모저모
+    1. Type Alias 와 as import
+    2. 구조분해와 componentN 함수
+    3. Jump 와 Label
+    4. Takelf 와 TakeUnless
