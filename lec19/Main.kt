@@ -4,7 +4,7 @@ import lec18.Fruit
 
 data class Person(
     val name: String,
-    val age: Int
+    var age: Int
 )
 
 fun main() {

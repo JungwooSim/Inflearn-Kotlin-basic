@@ -85,3 +85,8 @@
     2. 구조분해와 componentN 함수
     3. Jump 와 Label
     4. Takelf 와 TakeUnless
+20. scope function
+    1. scope function 이란 무엇인가?
+    2. scope function 의 분류
+    3. 언제 어떤 scope function 을 사용해야 할까?
+    4. scope function 과 가독성
