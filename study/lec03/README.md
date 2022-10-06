@@ -1,0 +1,22 @@
+### 3강. 코틀린에서 Type 을 다루는 방법
+
+- 기본 타입
+    - Byte, Short, Int, Float, Double, 부호없는 정수
+    - Java 와 다른 내용
+        - 자바 : 기본 타입간의 변화는 암시적으로 이루어질 수 있다.
+        - 코틀린 : 기본 타입간의 변환은 명시적으로 이루어져야 한다
+- 타입 캐스팅
+- Kotlin 의 3가지 특이한 타입
+    - Any
+        - Java 의 Object 역할
+        - 모든 primitive Type 의 최상의 타입도 Any
+        - Any 자체로는 null 을 포함할 수 없어 null 을 포함하고 싶다면 Any? 로 표현
+        - Any 에 equals, hashcode, toString 존재
+    - Unit
+        - Java 의 void 와 동일한 역할
+        - void 와 다르게 Unit 은 그 자체로 타입 인자로 사용 가능
+        - 함수형 프로그래밍에서 Unit 은 단 하나의 인스턴스만 갖는 타입을 의미 (실제 존재하는 타입이라는 것을 표현)
+    - Nothing
+        - 함수가 정상적으로 끝나지 않았다는 사실을 표현하는 역할
+        - 무조건 예외를 반환하는 함수, 무한 루프 함수 등
+- String Interpolation, String indexing
